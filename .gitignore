@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environments
+venv/
+.venv/
+ENV/
+env/
+.env
+
+# IDEs
+.idea/
+.vscode/
+
+# Pytest cache
+.pytest_cache/
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# If you have any local config files
+config.yaml
